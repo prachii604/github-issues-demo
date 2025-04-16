@@ -1,2 +1,2 @@
 # github-issues-demo
-sql
+SQL
